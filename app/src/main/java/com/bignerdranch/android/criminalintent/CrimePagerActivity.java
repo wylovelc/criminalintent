@@ -58,7 +58,6 @@ public class CrimePagerActivity extends FragmentActivity {
                 if (crime.getTitle() != null) {
                     setTitle(crime.getTitle());
                 }
-
             }
 
             @Override
